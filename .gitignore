@@ -1,0 +1,7 @@
+.idea
+.temp
+
+CMakeListsPrivate.txt
+BUILD/
+cmake-build-*/
+mbed-os/
