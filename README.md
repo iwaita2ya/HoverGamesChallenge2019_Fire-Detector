@@ -1,5 +1,7 @@
 # Fire Detector for HoverGames Challenges 2019
 
+![EyeCatch](https://github.com/iwaita2ya/ImageStore/blob/master/fire-detector-with-mlx90614-lpc1768.jpg)
+
 This repository holds source code of fire detector developed for HoverGames Challenge 2019.
 This program requires mbed LPC1768 dev board with MLX90614, an IR Thermometer module communicates in I2C protocol.
 
